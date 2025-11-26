@@ -46,19 +46,43 @@ I'm a **Junior Full Stack .NET Web Developer** passionate about building scalabl
 - **Methodologies**: Agile Development
 - **Soft Skills**: Problem Solving, Clean Code Practices, Continuous Learning
 
-## 📊 GitHub Statistics
+## 🐍 Animated Contribution Snake
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafaahmed999&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mostafaahmed999&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmed999&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-## 🎯 What I Do
+---
+
+## 📊 Animated GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=mostafaahmed999&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true" height="170" />
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mostafaahmed999&theme=tokyonight&layout=compact&hide_border=true" height="170" />
+
+</div>
+
+---
+
+## 🔥 Activity Graph (Animated)
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafaahmed999&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🏆 Animated Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mostafaahmed999&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## ⚙️ What I Do
 
 ```csharp
 public class MostafaAhmed : Developer
@@ -66,16 +90,18 @@ public class MostafaAhmed : Developer
     public string[] Specializations => new[]
     {
         "Full Stack Web Development",
-        "Frontend Development with Angular",
+        "Frontend with Angular",
         "Backend APIs with ASP.NET Core",
-        "Database Design & Management"
+        "Database Design & EF Core"
     };
-    
-    public string CurrentFocus => "Building scalable web applications with clean architecture";
-    
+
+    public string CurrentFocus => "Building modern, animated, scalable dark-themed web apps";
+
     public bool IsAvailableForOpportunities => true;
 }
 ```
+
+---
 
 ## 🌟 Highlights
 
@@ -86,23 +112,27 @@ public class MostafaAhmed : Developer
 - 🎨 Focus on **user experience** and **clean UI/UX**
 - 🔄 Comfortable working with **version control** and collaborative development
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white){:target="_blank"}](https://linkedin.com/in/-mostafa-ahmed)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white){:target="_blank"}](mailto:mostafaahmed0057@gmail.com)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-mostafa-ahmed)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafaahmed0057@gmail.com)
+
+</div>
+
+
+---
+
+## 🧠 Dev Quote
+
+<div align="center">
+
+**"Clean code always looks like it was written by someone who cares."**
+
 </div>
 
 ---
 
-<div align="center">
-  
-  ![Profile Views](https://visitcount.itsvg.in/api?id=mostafaahmed999&icon=2&color=6)
-  
-  ### 💡 "Clean code always looks like it was written by someone who cares."
-  
-  ⭐️ From [mostafaahmed999](https://github.com/mostafaahmed999)
-  
-</div>
+
+
