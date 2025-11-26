@@ -54,7 +54,7 @@ I'm a **Junior Full Stack .NET Web Developer** passionate about building scalabl
 
 ---
 
-## 📊 Animated GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -66,7 +66,7 @@ I'm a **Junior Full Stack .NET Web Developer** passionate about building scalabl
 
 ---
 
-## 🔥 Activity Graph (Animated)
+## 🔥 Activity Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafaahmed999&theme=react-dark&hide_border=true&area=true" />
@@ -74,7 +74,7 @@ I'm a **Junior Full Stack .NET Web Developer** passionate about building scalabl
 
 ---
 
-## 🏆 Animated Achievements
+## 🏆 Achievements
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mostafaahmed999&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
