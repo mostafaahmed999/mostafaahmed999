@@ -2,13 +2,21 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Angular+%26+ASP.NET+Core+Enthusiast;Problem+Solver+%26+Clean+Code+Advocate)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Angular+%26+ASP.[...])
   
+</div>
+
+<div align="center">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafaahmed999&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmed999&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  ![Profile Views](https://visitcount.itsvg.in/api?id=mostafaahmed999&icon=2&color=6)
+
 </div>
 
 ## 🚀 About Me
 
-I'm a **Junior Full Stack .NET Web Developer** passionate about building scalable and efficient web applications. With a strong foundation in both frontend and backend technologies, I specialize in creating seamless user experiences backed by robust server-side architecture.
+I'm a **Junior Full Stack .NET Web Developer** passionate about building scalable and efficient web applications. With a strong foundation in both frontend and backend technologies, I specialize in creating modern web experiences that are both performant and maintainable.
 
 - 🎓 **Education**: Bachelor's degree in Electrical Engineering from Port Said University (2018-2023)
 - 💼 **Experience**: Completed an intensive 4-month ITI internship, where I built real-world full-stack applications
@@ -45,18 +53,6 @@ I'm a **Junior Full Stack .NET Web Developer** passionate about building scalabl
 - **Programming**: Object-Oriented Programming (OOP), LINQ
 - **Methodologies**: Agile Development
 - **Soft Skills**: Problem Solving, Clean Code Practices, Continuous Learning
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafaahmed999&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mostafaahmed999&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmed999&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  
-</div>
 
 ## 🎯 What I Do
 
@@ -98,8 +94,6 @@ public class MostafaAhmed : Developer
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://visitcount.itsvg.in/api?id=mostafaahmed999&icon=2&color=6)
   
   ### 💡 "Clean code always looks like it was written by someone who cares."
   
