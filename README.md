@@ -50,11 +50,11 @@ I'm a **Junior Full Stack .NET Web Developer** passionate about building scalabl
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafaahmed999&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafaahmed999&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaahmed999&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mostafaahmed999&theme=tokyonight&hide_border=true)
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmed999&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmed999&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   
 </div>
 
